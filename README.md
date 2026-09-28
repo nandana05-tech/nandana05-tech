@@ -1,62 +1,53 @@
-# Hello Everyone! 👋  
+<h1 align="center">Hi, I'm Nandana Ayudya Natasaskara 👋</h1>
 
-My name is **Nandana Ayudya Natasaskara**.  
-
-I’m a **5th-semester Information Systems student** at [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/).  
-
----
-
-### 🌱 What I'm Learning
-- 📌 Designing **Information Systems**  
-- 🎨 Creating **website prototypes & UI/UX design**  
-- 💻 Building websites with **CodeIgniter 3 (CI3)**  
-
----
-
-### 🚀 About Me
-I’m passionate about **web development, design, and system analysis**, and I’m always eager to learn new skills and collaborate on exciting projects.  
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandana-ayudya-natasaskara/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/nandana05-tech)
-
----
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
-
----
-
-### 🔥 Streak Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=penuliscode&theme=algolia" alt="streak"/>
+  <strong>Information Systems Student · Web Developer · AI/ML Enthusiast</strong>
 </p>
 
----
-
-### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=penuliscode&theme=algolia&row=1&column=6"/>
+  I enjoy turning ideas into useful, well-designed digital products—from responsive web applications to intelligent systems powered by machine learning.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandana-ayudya-natasaskara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nandana05-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nandana05-tech&style=for-the-badge&color=6C63FF" alt="Profile views" />
 </p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=penuliscode&color=blueviolet)
+### About Me
 
+- 🎓 Information Systems student at [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/)
+- 🔭 Interested in web development, artificial intelligence, UI/UX, and system analysis
+- 🌱 Currently exploring modern full-stack development and production-ready AI/ML systems
+- 🤝 Open to collaborating on meaningful technology projects
 
-### ⚡ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+### Featured Projects
 
----
+| Project | Description | Tech |
+| --- | --- | --- |
+| [House Price Intelligence System](https://github.com/nandana05-tech/House-Price-Intelligence-System) | An LLM-powered platform for house-price prediction, market segmentation, clustering, and property analysis in Depok. | FastAPI, Next.js, CatBoost, Kafka, MLflow, PostgreSQL, Docker |
+| [AXCEL](https://github.com/nandana05-tech/axcel) | A mobile-first fitness PWA for planning, tracking, and reviewing workout activities. [Live demo](https://axcel-eta.vercel.app) | Next.js, React, TypeScript, Tailwind CSS, PWA |
+| [Vulnerable App Pentest](https://github.com/nandana05-tech/vulnapp-pentest) | An intentionally vulnerable application for practising penetration testing based on the OWASP Top 10. | Web Security, Penetration Testing, OWASP |
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nextjs,tailwind,fastapi,codeigniter,mysql,postgres,redis,docker,git,github,figma&perline=9" alt="Technology stack" />
+</p>
+
+### GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandana05-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Nandana's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandana05-tech&layout=compact&theme=algolia" alt="Nandana's most used languages" />
+</p>
+
+<p align="center">
+  <em>Let's connect, collaborate, and build something useful.</em>
+</p>
